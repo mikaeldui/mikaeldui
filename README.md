@@ -1,16 +1,22 @@
-### Hi there 👋
+#### Desktop Applications
+- ChampionMastery.GG: Both a [WinUI 3](https://github.com/mikaeldui/ChampionMastery.GG-winui) and a [UWP](https://github.com/mikaeldui/ChampionMastery.GG-uwp) version.
+- [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel): For downloading and reading teaching e-books. Works great on touch screens.
 
-<!--
-**mikaeldui/mikaeldui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### .NET Clients
+- [MikaelDui.RiotGames.Client](https://github.com/mikaeldui/riot-games-dotnet-client)
+- [MikaelDui.ChampionMasteryGg.Client](https://github.com/mikaeldui/ChampionMastery.GG-dotnet-client)
+- Swedish
+  - [MikaelDui.Skolplattformen.Client](https://github.com/mikaeldui/skolplattformen-dotnet-client)
+  - [MikaelDui.Liber.Onlinebok.Client](https://github.com/mikaeldui/liber-onlinebok-dotnet-client)
+ 
+#### .NET Libraries Classes
+- MikaelDui.Net.Http.Json
+- MikaelDui.Newtonsoft.Json
 
-Here are some ideas to get you started:
+#### .NET Extensions
+- [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
+- [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
+- [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### GitHub Actions
+I maintain most of my actions and workflows in a [central repository](https://github.com/mikaeldui/actions).
