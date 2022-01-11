@@ -20,3 +20,6 @@
 
 #### GitHub Actions
 I maintain most of my actions and workflows in a [central repository](https://github.com/mikaeldui/actions).
+
+#### Template Repositories
+- [nupkg-template](https://github.com/mikaeldui/nupkg-template)
