@@ -19,7 +19,7 @@
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 
 #### GitHub Actions
-I maintain most of my actions and workflows in a [central repository](https://github.com/mikaeldui/actions).
+I maintain most of my actions and [workflows](https://github.com/mikaeldui/actions/tree/main/.github/workflows) in a [central repository](https://github.com/mikaeldui/actions).
 
 #### Template Repositories
 - [nupkg-template](https://github.com/mikaeldui/nupkg-template)
