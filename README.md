@@ -12,7 +12,7 @@
 #### .NET Base Libraries
 - [MikaelDui.Client.Base](https://github.com/mikaeldui/client-base-dotnet)
  
-#### Extra Classes for 3rd-Party .NET
+#### Extra Classes for 3rd-Party .NET Libraries
 - [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
 - MikaelDui.Net.Http.Json
 - MikaelDui.Newtonsoft.Json
