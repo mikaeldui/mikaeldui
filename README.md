@@ -19,6 +19,7 @@
 
 #### .NET Extensions
 - [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
+- [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/dotnet-net-websockets-extensions)
 - [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 - [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
