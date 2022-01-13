@@ -17,6 +17,7 @@
 - [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
 - [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
+- [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
 
 #### GitHub Actions
 I maintain most of my actions and [workflows](https://github.com/mikaeldui/actions/tree/main/.github/workflows) in a [central repository](https://github.com/mikaeldui/actions).
