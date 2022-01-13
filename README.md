@@ -9,7 +9,8 @@
   - [MikaelDui.Skolplattformen.Client](https://github.com/mikaeldui/skolplattformen-dotnet-client)
   - [MikaelDui.Liber.Onlinebok.Client](https://github.com/mikaeldui/liber-onlinebok-dotnet-client)
  
-#### .NET Libraries Classes
+#### .NET Extra Classes
+- [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
 - MikaelDui.Net.Http.Json
 - MikaelDui.Newtonsoft.Json
 
