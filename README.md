@@ -10,7 +10,7 @@
   - [MikaelDui.Liber.Onlinebok.Client](https://github.com/mikaeldui/liber-onlinebok-dotnet-client)
 
 #### .NET Base Libraries
-- [MikaelDui.Clients.Base](https://github.com/mikaeldui/clients-base-dotnet)
+- [MikaelDui.Client.Base](https://github.com/mikaeldui/client-base-dotnet)
  
 #### Extra Classes for 3rd-Party .NET
 - [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
