@@ -1,4 +1,4 @@
-#### Desktop Applications
+#### Apps
 - ChampionMastery.GG: Both a [WinUI 3](https://github.com/mikaeldui/ChampionMastery.GG-winui) and a [UWP](https://github.com/mikaeldui/ChampionMastery.GG-uwp) version.
 - [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel): For downloading and reading teaching e-books. Works great on touch screens.
 
@@ -28,6 +28,7 @@
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 - [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
 - MikaelDui.Newtonsoft.Json
+- [MikaelDui.RiotGames.LeagueOfLegends.LeagueClient.LockFile](https://github.com/mikaeldui/riot-games-league-of-legends-league-client-lock-file-dotnet)
 
 #### GitHub Actions
 I maintain most of my actions and [workflows](https://github.com/mikaeldui/actions/tree/main/.github/workflows) in a [central repository](https://github.com/mikaeldui/actions).
