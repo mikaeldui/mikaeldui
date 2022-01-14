@@ -9,23 +9,17 @@
   - [MikaelDui.Skolplattformen.Client](https://github.com/mikaeldui/skolplattformen-dotnet-client)
   - [MikaelDui.Liber.Onlinebok.Client](https://github.com/mikaeldui/liber-onlinebok-dotnet-client)
 
-#### .NET Base Libraries
-- [MikaelDui.Client.Base](https://github.com/mikaeldui/client-base-dotnet)
- 
-#### Extra Classes for 3rd-Party .NET Libraries
-- [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
-- MikaelDui.Net.Http.Json
-- MikaelDui.Newtonsoft.Json
-
-#### .NET Communicatoin Libraries
-- MikaelDui.Net.WebSockets.Wamp
-
-#### .NET Extensions
-- [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
-- [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/dotnet-net-websockets-extensions)
+#### .NET Libraries
+- [MikaelDui.Client.Base](https://github.com/mikaeldui/client-base-dotnet)- 
 - [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
+- [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 - [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
+- [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
+- [MikaelDui.Net.Http.Json](https://github.com/mikaeldui/dotnet-net-http-json)
+- [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/dotnet-net-websockets-extensions)
+- [MikaelDui.Net.WebSockets.Wamp](https://github.com/mikaeldui/dotnet-net-websockets-wmap)
+- MikaelDui.Newtonsoft.Json
 
 #### GitHub Actions
 I maintain most of my actions and [workflows](https://github.com/mikaeldui/actions/tree/main/.github/workflows) in a [central repository](https://github.com/mikaeldui/actions).
