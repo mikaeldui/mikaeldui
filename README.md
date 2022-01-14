@@ -10,15 +10,23 @@
   - [MikaelDui.Liber.Onlinebok.Client](https://github.com/mikaeldui/liber-onlinebok-dotnet-client)
 
 #### .NET Libraries
+
+##### General
 - [MikaelDui.Client.Base](https://github.com/mikaeldui/client-base-dotnet)
-- [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
 - [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
-- [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
-- [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
+
+##### System.Net
 - [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
 - [MikaelDui.Net.Http.Json](https://github.com/mikaeldui/dotnet-net-http-json)
 - [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/dotnet-net-websockets-extensions)
 - [MikaelDui.Net.WebSockets.Wamp](https://github.com/mikaeldui/dotnet-net-websockets-wmap)
+
+##### Code Analysis
+- [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
+
+##### Third-Party
+- [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
+- [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
 - MikaelDui.Newtonsoft.Json
 
 #### GitHub Actions
