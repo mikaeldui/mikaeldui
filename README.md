@@ -17,6 +17,9 @@
 - MikaelDui.Net.Http.Json
 - MikaelDui.Newtonsoft.Json
 
+#### .NET Communicatoin Libraries
+- MikaelDui.Net.WebSockets.Wamp
+
 #### .NET Extensions
 - [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
 - [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/dotnet-net-websockets-extensions)
