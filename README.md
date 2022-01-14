@@ -10,7 +10,7 @@
   - [MikaelDui.Liber.Onlinebok.Client](https://github.com/mikaeldui/liber-onlinebok-dotnet-client)
 
 #### .NET Libraries
-- [MikaelDui.Client.Base](https://github.com/mikaeldui/client-base-dotnet)- 
+- [MikaelDui.Client.Base](https://github.com/mikaeldui/client-base-dotnet)
 - [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
 - [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
