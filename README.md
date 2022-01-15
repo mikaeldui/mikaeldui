@@ -16,10 +16,10 @@
 - [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
 
 ##### System.Net
-- [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
-- [MikaelDui.Net.Http.Json](https://github.com/mikaeldui/dotnet-net-http-json)
+- [MikaelDui.Net.Http](https://github.com/mikaeldui/http-dotnet)
+- [MikaelDui.Net.Http.Json](https://github.com/mikaeldui/http-json-dotnet)
 - [MikaelDui.Net.UserAgent](https://github.com/mikaeldui/user-agent-dotnet)
-- [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/dotnet-net-websockets-extensions)
+- [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/websockets-dotnet-extensions)
 - [MikaelDui.Net.WebSockets.Wamp](https://github.com/mikaeldui/wamp-dotnet)
 
 ##### Code Analysis
@@ -28,7 +28,6 @@
 ##### Third-Party
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 - [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
-- MikaelDui.Newtonsoft.Json
 - [MikaelDui.RiotGames.LeagueOfLegends.LeagueClient.LockFile](https://github.com/mikaeldui/riotgames-leagueoflegends-leagueclient-lockfile-dotnet)
 
 #### GitHub Actions
