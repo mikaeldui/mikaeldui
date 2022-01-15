@@ -19,7 +19,7 @@
 - [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
 - [MikaelDui.Net.Http.Json](https://github.com/mikaeldui/dotnet-net-http-json)
 - [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/dotnet-net-websockets-extensions)
-- [MikaelDui.Net.WebSockets.Wamp](https://github.com/mikaeldui/dotnet-net-websockets-wmap)
+- [MikaelDui.Net.WebSockets.Wamp](https://github.com/mikaeldui/dotnet-net-websockets-wamp)
 
 ##### Code Analysis
 - [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
