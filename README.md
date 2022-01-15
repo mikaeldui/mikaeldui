@@ -18,6 +18,7 @@
 ##### System.Net
 - [MikaelDui.Net.Http](https://github.com/mikaeldui/dotnet-net-http)
 - [MikaelDui.Net.Http.Json](https://github.com/mikaeldui/dotnet-net-http-json)
+- [MikaelDui.Net.UserAgent](https://github.com/mikaeldui/user-agent-dotnet)
 - [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/dotnet-net-websockets-extensions)
 - [MikaelDui.Net.WebSockets.Wamp](https://github.com/mikaeldui/dotnet-net-websockets-wamp)
 
