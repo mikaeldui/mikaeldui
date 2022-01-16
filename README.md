@@ -32,6 +32,7 @@
 
 #### GitHub Actions
 I maintain most of my actions and [workflows](https://github.com/mikaeldui/actions/tree/main/.github/workflows) in a [central repository](https://github.com/mikaeldui/actions).
+- [Setup League Client](https://github.com/mikaeldui/setup-league-client): Sets up the League of Legends client
 
 #### Template Repositories
 - [nupkg-template](https://github.com/mikaeldui/nupkg-template)
