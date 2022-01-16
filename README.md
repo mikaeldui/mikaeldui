@@ -7,6 +7,7 @@
 - [MikaelDui.ChampionMasteryGg.Client](https://github.com/mikaeldui/ChampionMastery.GG-dotnet-client)
 - Swedish
   - [MikaelDui.Skolplattformen.Client](https://github.com/mikaeldui/skolplattformen-dotnet-client)
+  - [MikaelDui.Upplysning.Client](https://github.com/mikaeldui/upplysning-dotnet-client): Lookup the addresses of all residents of Sweden
   - [MikaelDui.Liber.Onlinebok.Client](https://github.com/mikaeldui/liber-onlinebok-dotnet-client)
 
 #### .NET Libraries
