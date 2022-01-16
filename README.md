@@ -29,7 +29,7 @@
 ##### Third-Party
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 - [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
-- [MikaelDui.RiotGames.LeagueOfLegends.LeagueClient.LockFile](https://github.com/mikaeldui/riotgames-leagueoflegends-leagueclient-lockfile-dotnet)
+- [MikaelDui.RiotGames.LeagueOfLegends.LeagueClient.LockFile](https://github.com/mikaeldui/riotgames-leagueoflegends-leagueclient-lockfile-dotnet): Parse the League Client lock file
 
 #### GitHub Actions
 I maintain most of my actions and [workflows](https://github.com/mikaeldui/actions/tree/main/.github/workflows) in a [central repository](https://github.com/mikaeldui/actions).
