@@ -21,7 +21,7 @@
 <!-- - [MikaelDui.Net.Http.Json](https://github.com/mikaeldui/http-json-dotnet) -->
 - [MikaelDui.Net.UserAgent](https://github.com/mikaeldui/user-agent-dotnet)
 - [MikaelDui.Net.WebSockets.Extensions](https://github.com/mikaeldui/websockets-dotnet-extensions)
-- [MikaelDui.Net.WebSockets.Wamp](https://github.com/mikaeldui/wamp-dotnet)
+- [MikaelDui.Net.WebSockets.Wamp](https://github.com/mikaeldui/wamp-dotnet): Support for [the WAMP Protocol](https://github.com/wamp-proto/wamp-proto)
 
 ##### Code Analysis
 - [MikaelDui.CodeAnalysis.CSharp.Extensions](https://github.com/mikaeldui/code-analysis-csharp-extensions)
