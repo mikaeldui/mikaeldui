@@ -13,7 +13,6 @@
 #### .NET Libraries
 
 ##### General
-- [MikaelDui.Client.Base](https://github.com/mikaeldui/client-base-dotnet)
 - [MikaelDui.Extensions](https://github.com/mikaeldui/dotnet-extensions)
 
 ##### System.Net
