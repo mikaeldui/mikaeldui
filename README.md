@@ -34,7 +34,7 @@
 #### GitHub Actions
 I maintain most of my actions and [workflows](https://github.com/mikaeldui/actions/tree/main/.github/workflows) in a [central repository](https://github.com/mikaeldui/actions).
 - [Setup League Client](https://github.com/marketplace/actions/setup-league-client): Sets up the League of Legends client
-- [Download Data Dragon](https://github.com/marketplace/actions/download-data-dragon): Downloads the League of Legends Data Dragon
+- [Download League of Legends Data Dragon](https://github.com/marketplace/actions/download-league-of-legends-data-dragon): Downloads the League of Legends Data Dragon
 
 #### Template Repositories
 - [nupkg-template](https://github.com/mikaeldui/nupkg-template)
