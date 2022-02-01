@@ -1,6 +1,5 @@
 #### Apps
 - [The Masteries Quest](https://masteries.quest): A League of Legends Champion Mastery Blazor WebAssembly app with a Cloudflare Worker "backend".
-- ChampionMastery.GG: Both a [WinUI 3](https://github.com/mikaeldui/ChampionMastery.GG-winui) and a [UWP](https://github.com/mikaeldui/ChampionMastery.GG-uwp) version.
 - [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel): For downloading and reading teaching e-books. Works great on touch screens.
 
 #### .NET Clients
