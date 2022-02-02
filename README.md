@@ -1,5 +1,5 @@
 #### Apps
-- [The Masteries Quest](https://masteries.quest): A League of Legends mastery app built with Blazor WebAssembly and WinUI, with a Cloudflare Worker "backend".
+- [The Masteries Quest](https://masteries.quest): A League of Legends mastery app built with Blazor WebAssembly (web) and WinUI 3 (desktop), with a Cloudflare Worker "backend".
 - [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel): For downloading and reading teaching e-books. Works great on touch screens.
 
 #### .NET Clients
