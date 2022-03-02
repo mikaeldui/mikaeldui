@@ -41,3 +41,5 @@ I maintain most of my actions and [workflows](https://github.com/mikaeldui/actio
 
 ### Discord
 **DevOps Activist#4089**
+
+![Mikael Dúi Bolinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaeldui&count_private=true&show_icons=true&theme=github_dark)
