@@ -5,6 +5,7 @@
 #### .NET Clients
 - [MikaelDui.RiotGames.Client](https://github.com/mikaeldui/riot-games-dotnet-client)
 - [MikaelDui.ChampionMasteryGg.Client](https://github.com/mikaeldui/ChampionMastery.GG-dotnet-client)
+- [MikaelDui.OpenFisheries](https://github.com/mikaeldui/openfisheries-dotnet-client)
 - Swedish
   - [MikaelDui.Skolplattformen.Client](https://github.com/mikaeldui/skolplattformen-dotnet-client)
   - [MikaelDui.Upplysning.Client](https://github.com/mikaeldui/upplysning-dotnet-client): Look up the addresses, birth dates and NIN/SSN of all residents of Sweden.
@@ -29,6 +30,7 @@
 - [MikaelDui.HtmlAgilityPack.Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 - [MikaelDui.Humanizer.Extensions](https://github.com/mikaeldui/humanizer-extensions)
 - [MikaelDui.RiotGames.LeagueOfLegends.LeagueClient.LockFile](https://github.com/mikaeldui/riotgames-leagueoflegends-leagueclient-lockfile-dotnet): Parse the League Client lock file
+- [MikaelDui.UnitedNations.Fao.Statistics.Isscaap](https://github.com/mikaeldui/united-nations-fao-statistics-dotnet)
 
 #### GitHub Actions
 I maintain most of my actions and [workflows](https://github.com/mikaeldui/actions/tree/main/.github/workflows) in a [central repository](https://github.com/mikaeldui/actions).
