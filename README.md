@@ -5,7 +5,11 @@
 #### .NET Clients
 - [MikaelDui.RiotGames.Client](https://github.com/mikaeldui/riot-games-dotnet-client)
 - [MikaelDui.ChampionMasteryGg.Client](https://github.com/mikaeldui/ChampionMastery.GG-dotnet-client)
-- [MikaelDui.OpenFisheries](https://github.com/mikaeldui/openfisheries-dotnet-client)
+- United Nations
+  - [MikaelDui.OpenFisheries.Client](https://github.com/mikaeldui/openfisheries-dotnet-client)
+- United Kingdom
+  - [MikaelDui.UnitedKingdom.Cefas.Client](https://github.com/mikaeldui/united-kingdom-cefas-dotnet-client)
+  - [MikaelDui.UnitedKingdom.Police.Client](https://github.com/mikaeldui/united-kingdom-police-dotnet-client)
 - Swedish
   - [MikaelDui.Skolplattformen.Client](https://github.com/mikaeldui/skolplattformen-dotnet-client)
   - [MikaelDui.Upplysning.Client](https://github.com/mikaeldui/upplysning-dotnet-client): Look up the addresses, birth dates and NIN/SSN of all residents of Sweden.
