@@ -9,6 +9,7 @@
   - [MikaelDui.OpenFisheries.Client](https://github.com/mikaeldui/openfisheries-dotnet-client)
 - United Kingdom
   - [MikaelDui.UnitedKingdom.Cefas.Client](https://github.com/mikaeldui/united-kingdom-cefas-dotnet-client)
+  - [MikaelDui.UnitedKingdom.Parliament.Client](https://github.com/mikaeldui/united-kingdom-parliament-dotnet-client)
   - [MikaelDui.UnitedKingdom.Police.Client](https://github.com/mikaeldui/united-kingdom-police-dotnet-client)
 - Swedish
   - [MikaelDui.Skolplattformen.Client](https://github.com/mikaeldui/skolplattformen-dotnet-client)
