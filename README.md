@@ -3,8 +3,8 @@
 - [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel): For downloading and reading teaching e-books. Works great on touch screens.
 
 #### .NET Clients
-- [MikaelDui.RiotGames.Client](https://github.com/mikaeldui/riot-games-dotnet-client)
-- [MikaelDui.ChampionMasteryGg.Client](https://github.com/mikaeldui/ChampionMastery.GG-dotnet-client)
+- [MikaelDui.RiotGames.Client](https://github.com/mikaeldui/riot-games-dotnet-client) (archived)
+- [MikaelDui.ChampionMasteryGg.Client](https://github.com/mikaeldui/ChampionMastery.GG-dotnet-client) (archived)
 - United Nations
   - [MikaelDui.OpenFisheries.Client](https://github.com/mikaeldui/openfisheries-dotnet-client)
 - United Kingdom
