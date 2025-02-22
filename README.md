@@ -1,3 +1,7 @@
+### Contact
+Matrx: [@mikaeldui:bolinder.uk](https://matrix.to/#/@mikaeldui:bolinder.uk)
+Bitcoin: [bc1qc82qca7dn9afj3p6mujuhvhwj98e93txuzst2n](bitcoin:bc1qc82qca7dn9afj3p6mujuhvhwj98e93txuzst2n)
+
 #### Apps
 - [The Masteries Quest](https://masteries.quest): A League of Legends mastery app built with Blazor WebAssembly (web) and WinUI 3 (desktop), with a Cloudflare Worker "backend".
 - [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel): For downloading and reading teaching e-books. Works great on touch screens.
