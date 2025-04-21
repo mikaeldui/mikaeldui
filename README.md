@@ -5,6 +5,9 @@
 - Matrix: [@mikaeldui:bolinder.uk](https://matrix.to/#/@mikaeldui:bolinder.uk)
 - Bitcoin: [bc1qc82qca7dn9afj3p6mujuhvhwj98e93txuzst2n](bitcoin:bc1qc82qca7dn9afj3p6mujuhvhwj98e93txuzst2n)
 
+### Affiliate links:
+- Niagara Launcher: https://get.niagaralauncher.app/GJO1SN
+
 ### NuGet
 I have a few NuGet packages, and am closing in on 100k downloads: https://www.nuget.org/profiles/mikaeldui
 
