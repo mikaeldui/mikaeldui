@@ -7,6 +7,7 @@
 
 ### Affiliate links:
 - Niagara Launcher: https://get.niagaralauncher.app/GJO1SN
+- Vultr: https://www.vultr.com/?ref=8303894
 
 ### NuGet
 I have a few NuGet packages, and am closing in on 100k downloads: https://www.nuget.org/profiles/mikaeldui
