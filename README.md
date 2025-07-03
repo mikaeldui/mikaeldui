@@ -6,6 +6,7 @@
 - Bitcoin: [bc1qc82qca7dn9afj3p6mujuhvhwj98e93txuzst2n](bitcoin:bc1qc82qca7dn9afj3p6mujuhvhwj98e93txuzst2n)
 
 ### Affiliate links:
+- Proton Mail: https://pr.tn/ref/3C6PHPZSN1XG
 - Niagara Launcher: https://get.niagaralauncher.app/GJO1SN
 - Vultr: https://www.vultr.com/?ref=8303894
 
