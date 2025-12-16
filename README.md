@@ -5,10 +5,6 @@
 |--------|--------|--------|--------|
 | OS     | [/e/](https://e.foundation/) | [Bluefin-DX](https://docs.projectbluefin.io/bluefin-dx/)/[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/workstations) | [uCore](https://github.com/ublue-os/ucore)/[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) |
 
-
-
-- /e/OS and Bluefin-DX
-
 ### Contact
 - E-mail: 6b22011d-7b5d-4ac9-b72d-57301fa7c96d@bolinder.uk
 - Matrix: [@mikaeldui:bolinder.uk](https://matrix.to/#/@mikaeldui:bolinder.uk)
