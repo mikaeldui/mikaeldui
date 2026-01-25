@@ -1,3 +1,8 @@
+# Dayum
+
+[![Watch the video](https://img.youtube.com/vi/DcJFdCmN98s/hqdefault.jpg)](https://www.youtube.com/embed/DcJFdCmN98s)
+
+
 # Mikael Dúi Bolinder
 
 ### Stack
