@@ -1,9 +1,20 @@
 # Videos
 
+[![Watch the video](https://img.youtube.com/vi/V1bFr2SWP1I/hqdefault.jpg)](https://www.youtube.com/embed/V1bFr2SWP1I)
+
 [![Watch the video](https://img.youtube.com/vi/Of4G9gAxiDE/hqdefault.jpg)](https://www.youtube.com/embed/Of4G9gAxiDE)
+
+[![Watch the video](https://img.youtube.com/vi/09TqAPwOBFs/hqdefault.jpg)](https://www.youtube.com/embed/09TqAPwOBFs)
+
+[![Watch the video](https://img.youtube.com/vi/8RosDxQIjf8/hqdefault.jpg)](https://www.youtube.com/embed/8RosDxQIjf8)
 
 [![Watch the video](https://img.youtube.com/vi/DcJFdCmN98s/hqdefault.jpg)](https://www.youtube.com/embed/DcJFdCmN98s)
 
+[![Watch the video](https://img.youtube.com/vi/gqs8bRMhBgA/hqdefault.jpg)](https://www.youtube.com/embed/gqs8bRMhBgA)
+
+[![Watch the video](https://img.youtube.com/vi/ZAvd_6sI1-I/hqdefault.jpg)](https://www.youtube.com/embed/ZAvd_6sI1-I)
+
+[![Watch the video](https://img.youtube.com/vi/DkX64cUvrvk/hqdefault.jpg)](https://www.youtube.com/embed/DkX64cUvrvk)
 
 # Mikael Dúi Bolinder
 
