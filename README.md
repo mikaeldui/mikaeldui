@@ -2,6 +2,8 @@
 
 [![Watch the video](https://img.youtube.com/vi/V1bFr2SWP1I/hqdefault.jpg)](https://www.youtube.com/embed/V1bFr2SWP1I)
 
+[![Watch the video](https://img.youtube.com/vi/dck6m5guuIE/hqdefault.jpg)](https://www.youtube.com/embed/dck6m5guuIE)
+
 [![Watch the video](https://img.youtube.com/vi/Of4G9gAxiDE/hqdefault.jpg)](https://www.youtube.com/embed/Of4G9gAxiDE)
 
 [![Watch the video](https://img.youtube.com/vi/09TqAPwOBFs/hqdefault.jpg)](https://www.youtube.com/embed/09TqAPwOBFs)
