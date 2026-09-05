@@ -26,7 +26,7 @@
 | OS     | [/e/](https://e.foundation/) | [Bluefin-DX](https://docs.projectbluefin.io/bluefin-dx/)/[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/workstations) | [uCore](https://github.com/ublue-os/ucore)/[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) |
 
 ### Contact
-- Phone: [+1 800 641 3767 ext. 69651](tel:+18006413767;ext=69651), [+44 207 099 8791 ext. 69651](tel:+442070998791;ext=69651), [+45 7734 8653 ext. 69651](tel:+4577348653;ext=69651)
+- Phone: [+1 800 641 3767 ext. 69651](https://mikaeldui.github.io/phone-redirect/?+18006413767,69651), [+44 207 099 8791 ext. 69651](https://mikaeldui.github.io/phone-redirect/?+442070998791,69651), [+45 7734 8653 ext. 69651](https://mikaeldui.github.io/phone-redirect/?+4577348653,69651)
 - E-mail: [6b22011d-7b5d-4ac9-b72d-57301fa7c96d@bolinder.uk](6b22011d-7b5d-4ac9-b72d-57301fa7c96d@bolinder.uk)
 - Matrix: [@mikaeldui:bolinder.uk](https://matrix.to/#/@mikaeldui:bolinder.uk)
 
